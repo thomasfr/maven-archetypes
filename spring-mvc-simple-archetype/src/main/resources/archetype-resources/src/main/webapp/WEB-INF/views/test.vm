@@ -1,0 +1,5 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<h2>WEB-INF/views/test.vm</h2>
+<div>${message}</div>

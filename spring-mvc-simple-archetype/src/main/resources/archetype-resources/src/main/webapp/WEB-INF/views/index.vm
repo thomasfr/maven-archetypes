@@ -1,0 +1,13 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>${artifactId}</title>
+        <link href="static/scripts/extjs/resources/css/ext-all.css" rel="stylesheet" />
+        <script src="static/scripts/extjs/ext-all.js"></script>
+        <script src="static/scripts/app.js"></script>
+    </head>
+    <body></body>
+</html>
