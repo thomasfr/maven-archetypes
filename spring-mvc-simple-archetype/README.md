@@ -26,8 +26,8 @@ IndexController with two RequestMappings:
 Usage
 -----
 
-	git clone git://github.com/thomasfr/spring-mvc-simple-archetype.git spring-mvc-simple-archetype
-	cd spring-mvc-simple-archetype
+	git clone git://github.com/thomasfr/maven-archetypes.git maven-archetypes
+	cd maven-archetypes/spring-mvc-simple-archetype
 	mvn clean install
 
 
